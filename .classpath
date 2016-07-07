@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" output="target/classes" path="src/main/java">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry excluding="**" kind="src" output="target/classes" path="src/main/resources">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" output="target/test-classes" path="src/test/java">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/J2SE-1.5">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.m2e.MAVEN2_CLASSPATH_CONTAINER">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/Administrator/Downloads/lib/aspectjrt.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Administrator/Downloads/lib/aspectjweaver.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Administrator/Downloads/lib/cglib-nodep-2.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Administrator/Downloads/lib/com.springsource.org.aopalliance-1.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Administrator/Downloads/lib/commons-logging.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Administrator/Downloads/lib/jstl-api-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Administrator/Downloads/lib/jstl-impl-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Administrator/Downloads/lib/log4j-1.2.16.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Administrator/Downloads/lib/mysql-connector-java-5.1.11-bin.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Administrator/Downloads/lib/org.springframework.aop-3.0.2.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Administrator/Downloads/lib/org.springframework.asm-3.0.2.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Administrator/Downloads/lib/org.springframework.beans-3.0.2.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Administrator/Downloads/lib/org.springframework.context-3.0.2.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Administrator/Downloads/lib/org.springframework.core-3.0.2.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Administrator/Downloads/lib/org.springframework.expression-3.0.2.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Administrator/Downloads/lib/org.springframework.jdbc-3.0.2.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Administrator/Downloads/lib/org.springframework.transaction-3.0.2.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Administrator/Downloads/lib/org.springframework.web.servlet-3.0.2.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Administrator/Downloads/lib/org.springframework.web-3.0.2.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Administrator/Downloads/lib/servlet-api.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Administrator/Downloads/mysql-connector-java-5.1.39/mysql-connector-java-5.1.39/mysql-connector-java-5.1.39-bin.jar"/>
+	<classpathentry kind="output" path="target/classes"/>
+</classpath>
